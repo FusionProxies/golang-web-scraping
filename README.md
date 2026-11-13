@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=golang-web-scraping">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=golang-web-scraping">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -104,7 +104,7 @@ To spread requests over several proxies, Colly has a round-robin switcher: `c.Se
 - [nodejs-web-scraping](https://github.com/FusionProxies/nodejs-web-scraping): the same scraper in Node.js
 - [proxy-checker](https://github.com/FusionProxies/proxy-checker): a Go CLI that checks HTTP and SOCKS proxies in bulk
 
-[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=golang-web-scraping) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=golang-web-scraping).
+[Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=golang-web-scraping) from $2.95/GB, with a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=golang-web-scraping).
 
 ## License
 
